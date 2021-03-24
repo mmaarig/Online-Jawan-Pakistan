@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .nav {
+	padding-left:0px;
+	overflow: hidden;
+	background-color: #efe9eb;
+  }
+  
+  .nav a {
+	float: right;
+	color: #89797a;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+  }
+  
+  .nav a:hover {
+	
+	color: black;
+  }
+  
+  .nav a.active {
+	
+	color: #d8abb5;
+  }
